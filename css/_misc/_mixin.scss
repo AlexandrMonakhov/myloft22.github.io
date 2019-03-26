@@ -1,0 +1,10 @@
+/* Fonts mixin */
+@mixin regular {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+@mixin bold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
